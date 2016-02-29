@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <specs2.version>3.6.6</specs2.version>
+        <specs2.version>3.7</specs2.version>
     </properties>
 
     <dependencies>
